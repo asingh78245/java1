@@ -1,7 +1,8 @@
-# 💳 Banking Application for Account Management  
+# 💳 Banking Application for Account Management in Java  
 
-A simple **Banking Application in Java** that allows users to manage their bank accounts.  
-This project demonstrates **Object-Oriented Programming (OOP)** concepts, control structures, arrays, and string handling in Java.  
+A console-based Banking System built with Java to perform basic account management operations.
+This project highlights OOP principles, arrays, strings, and control structures in Java.
+
 
 ---
 
